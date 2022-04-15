@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="FirstTable" max_length="40" name="x_787092_first_firsttable" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Question" max_length="40" name="question" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="First" value="first"/>
+                <element inactive_on_update="false" label="Secound" value="secound"/>
+                <element inactive_on_update="false" label="Third" value="third"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="100" name="short_description" type="string"/>
+    </element>
+</database>
