@@ -19,6 +19,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="QuestionFirst" mandatory="true" max_length="40" name="u_question" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="First string" max_length="40" name="u_string" type="string"/>
         <index name="index">
             <element name="u_created"/>
         </index>
