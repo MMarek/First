@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_number" table="x_787092_first_firsttable" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_number</element>
+            <name>x_787092_first_firsttable</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 08:38:21</sys_created_on>
+            <sys_id>6956824c2f03011071da811df699b681</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_number</sys_name>
+            <sys_package display_value="First" source="x_787092_first">df30423e2f32011071da811df699b62c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="First">df30423e2f32011071da811df699b62c</sys_scope>
+            <sys_update_name>sys_choice_x_787092_first_firsttable_u_number</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 08:38:21</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 1</label>
+            <language>en</language>
+            <name>x_787092_first_firsttable</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 08:38:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed56824c2f03011071da811df699b680</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 08:38:21</sys_updated_on>
+            <value>Choice 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 2</label>
+            <language>en</language>
+            <name>x_787092_first_firsttable</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 08:38:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6156824c2f03011071da811df699b683</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 08:38:21</sys_updated_on>
+            <value>Choice 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice 3</label>
+            <language>en</language>
+            <name>x_787092_first_firsttable</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 08:38:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e156824c2f03011071da811df699b684</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 08:38:21</sys_updated_on>
+            <value>Choice 3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_number" label="NumberFirst" language="en" table="x_787092_first_firsttable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_number</element>
+            <help/>
+            <hint/>
+            <label>NumberFirst</label>
+            <language>en</language>
+            <name>x_787092_first_firsttable</name>
+            <plural>NumberFirsts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 08:38:20</sys_created_on>
+            <sys_id>5156424c2f03011071da811df699b6ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>NumberFirst</sys_name>
+            <sys_package display_value="First" source="x_787092_first">df30423e2f32011071da811df699b62c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="First">df30423e2f32011071da811df699b62c</sys_scope>
+            <sys_update_name>sys_documentation_x_787092_first_firsttable_u_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 08:38:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

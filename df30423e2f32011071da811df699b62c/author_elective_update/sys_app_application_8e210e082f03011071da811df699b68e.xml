@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>First</name>
+        <order>100</order>
+        <roles>x_787092_first.first_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 08:15:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8e210e082f03011071da811df699b68e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="First" source="x_787092_first">df30423e2f32011071da811df699b62c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First">df30423e2f32011071da811df699b62c</sys_scope>
+        <sys_update_name>sys_app_application_8e210e082f03011071da811df699b68e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 08:15:43</sys_updated_on>
+        <title>First</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="First">df30423e2f32011071da811df699b62c</application>
+        <file_path/>
+        <instance_id>a00362c3dbeac49091232f17d496198b</instance_id>
+        <instance_name>dev98249</instance_name>
+        <name>sys_app_application_8e210e082f03011071da811df699b68e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>First</name><order>100</order><roles>x_787092_first.first_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-19 08:15:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8e210e082f03011071da811df699b68e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>First</sys_name><sys_overrides/><sys_package display_value="First" source="x_787092_first">df30423e2f32011071da811df699b62c</sys_package><sys_policy/><sys_scope display_value="First">df30423e2f32011071da811df699b62c</sys_scope><sys_update_name>sys_app_application_8e210e082f03011071da811df699b68e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-19 08:15:43</sys_updated_on><title>First</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>2036445674</payload_hash>
+        <record_name>First</record_name>
+        <reverted_from/>
+        <source>c8efb73a2fb6011071da811df699b622</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 08:15:43</sys_created_on>
+        <sys_id>ce210e082f03011071da811df699b691</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18040e446bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 08:15:43</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>0a210e08f50301103fd1c9169e288591</update_guid>
+        <update_guid_history>0a210e08f50301103fd1c9169e288591:2036445674</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="First">569142482f03011071da811df699b65c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 08:17:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>3dfd01ff6f724af892b3af565404cbb9</sys_id>
+        <sys_metadata>8e210e082f03011071da811df699b68e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First</sys_name>
+        <sys_package display_value="First" source="x_787092_first">df30423e2f32011071da811df699b62c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="First">df30423e2f32011071da811df699b62c</sys_scope>
+        <sys_scope_delete display_value="">18c29963132944ce853c9c01fc9ffea9</sys_scope_delete>
+        <sys_update_name>sys_app_application_8e210e082f03011071da811df699b68e</sys_update_name>
+        <sys_update_version display_value="sys_app_application_8e210e082f03011071da811df699b68e">ce210e082f03011071da811df699b691</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 08:17:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
